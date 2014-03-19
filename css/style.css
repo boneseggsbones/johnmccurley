@@ -97,7 +97,7 @@ ul.nav li.last {
 	border: 0;
 	font-weight: 100;
 	font-size: .75em;
-	background: #b22316 url('texture.png') no-repeat right top;;
+	background: #ac44dd url('texture.png') no-repeat right top;;
 	border-radius: 25px;
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
@@ -105,7 +105,7 @@ ul.nav li.last {
 }
 
 ul.nav li.last:hover {
-		background-color: #c62718;
+		background-color: #c827FF;
 }
 
 ul.nav li a {
